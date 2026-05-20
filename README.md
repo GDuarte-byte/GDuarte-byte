@@ -1,16 +1,64 @@
-## Hi there 👋
+# Gabriel Duarte Tourinho
 
-<!--
-**GDuarte-byte/GDuarte-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔐 Focado em Cybersecurity, Redes e Suporte Técnico  
+🖥️ Estudando Linux, Segurança da Informação e Infraestrutura  
+📍 Rio de Janeiro - RJ
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de ADS com foco em Cybersecurity, Suporte Técnico e Infraestrutura.
+
+Atualmente estudo:
+- Redes
+- Segurança da Informação
+- Linux
+- Troubleshooting
+- Infraestrutura
+
+Busco desenvolver experiência prática através de laboratórios, documentação técnica e plataformas de aprendizado.
+
+---
+
+## 📚 Certificações
+
+- Cisco Networking Academy — Introduction to Cybersecurity
+- Cisco Networking Academy — Fundamentos de Redes
+- Cisco Networking Academy — Ameaças, Vulnerabilidades e Ataques à Segurança Cibernética
+- Cisco Networking Academy — Learn-A-Thon 2026
+
+---
+
+## 🛠️ Tecnologias e Conhecimentos
+
+- Linux
+- Redes
+- Segurança da Informação
+- Git e GitHub
+- SQL
+- Java
+- JavaScript
+- Troubleshooting
+- Suporte Técnico
+- Windows
+
+---
+
+## 📖 Atualmente estudando
+
+- Linux
+- Active Directory
+- Wireshark
+- TryHackMe
+- Redes
+- Cybersecurity Fundamentals
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/gabriel-duarte-7223ab145
+- GitHub: github.com/GDuarte-byte
+- Email: gabrielduartevp@gmail.com
